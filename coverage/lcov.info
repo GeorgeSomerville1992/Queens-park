@@ -1,0 +1,16 @@
+TN:
+SF:cuckoo.js
+FN:2,sum
+FN:6,multiply
+FNF:2
+FNH:2
+FNDA:1,sum
+FNDA:1,multiply
+DA:3,1
+DA:7,1
+DA:10,1
+LF:3
+LH:3
+BRF:0
+BRH:0
+end_of_record
