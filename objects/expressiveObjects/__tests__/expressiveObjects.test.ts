@@ -46,7 +46,7 @@ describe("shuffled order", () => {
 		},
 	};
 
-	op = "subtract";
+	const op = "subtract";
 
 	const right = {
 		subtract: {

@@ -59,7 +59,7 @@ const sumRootValues = <T extends number>(acc: T, val: T, operation) => {
 	}
 };
 
-const sortOrder = <T> (a: T, b: T) => {
+const sortOrder = <T>(a: T, b: T) => {
 	console.log("wooot", a, b);
 	// a[0], b[0]
 	const order = ["add", "subtract", "multiply", "divide"];
